@@ -2,7 +2,7 @@ This folder contains some sample data to illustrate the output files written by 
 
 Be aware: the ESCG code can create a large number of output files, many of which can grow quite large.
 
-In my implementation, the top-level data folder for an experiment is named to indicate whether it is OES or RES, how many species (NSnn), how many ablatiomns (NAn), and what the square 2D lattice side-length L is. 
+In my implementation, the top-level data folder for an experiment is named to indicate whether it is OES or RES, how many species (NSnn), how many ablations (NAnn), and what the square 2D lattice side-length L is (Lnnnn). 
 
 So, for example, if the top-level data-folder is OES_NS05_NA0_L200 that tells me it's data for an experiment using OES with five species, no ablations, and a lattice of sidelength 200. 
 
